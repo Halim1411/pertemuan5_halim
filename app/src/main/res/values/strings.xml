@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Halim">Halim Pasaribu</string>
+    <string name="Asal">Manokwari</string>
+    <string name="lahir">14-NOv-1998</string>
+    <string name="gambar">gasmbar1</string>
+    <string name="gambjhji">Click the execute.pngRun button, and either choose an emulator or connect your Android device, which must be
+        capable of running Android Lollipop (the minimum SDK supported is 22). The constraint-layout screen should appear:</string>
+</resources>
